@@ -1,0 +1,12 @@
+# RegnskapSFI-V2 requirements
+# Usage: pip install -r RegnskapSFI_requirements.txt
+
+# Base --------------------------
+pandas>=2.0.3
+numpy>=1.24.2
+ipywidgets>=8.0.6
+IPython>=8.12.0
+
+
+# Jupyter Notebook extensions --------------------------
+jupyter_contrib_nbextensions>=0.5.1
